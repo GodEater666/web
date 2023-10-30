@@ -1,0 +1,204 @@
+@font-face {
+    font-family: "Anonymous Pro";
+    src: url(fonts/AnonymousPro-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+  font-family: "Anonymous Pro";
+  src: url(fonts/AnonymousPro-Regular.ttf);
+}
+
+h1 {
+    font-family: "Anonymous Pro", sans-serif;
+    font-size: 56px;
+}
+
+h2 {
+  font-family: "Anonymous Pro", sans-serif;
+	font-size: 48px;
+  
+}
+
+.container {
+	display: inline-block;
+  position: relative;
+  margin: 24;
+  margin-right: 100;
+  gap: 24px;
+
+
+}
+
+h3 {
+  font-family: "Anonymous Pro", sans-serif;
+	font-size: 26px;
+  width: auto;
+  
+  margin: 0;
+  width: auto;
+  height: auto;
+  gap: 24px;
+ 
+} 
+p {
+  font-family: "Anonymous Pro", sans-serif;
+  font-size: 14px;
+  margin: 0%;
+  width: auto;
+  height: auto;
+  gap: 24px;
+
+}
+
+img {
+	width: 370px; 
+ border-top-left-radius: 12px;
+ border-top-right-radius: 12px;
+ height: auto; 
+}
+
+body{
+  background-color: #E6E8EC66;
+}
+.container__text{
+  align-self: stretch;
+  color: #121723; 
+  font-size: 20px; 
+  font-family: Anonymous Pro; 
+  font-weight: 400;
+  padding-right: 24px; 
+  padding-top: 32px; 
+  background: white; padding-bottom: 32px;
+  justify-content: flex-start; align-items: center;
+  gap: 10px;
+  border-bottom-left-radius: 12px ;
+  border-bottom-right-radius: 12px; overflow: hidden; 
+  margin: 0;
+  width: 346px;
+  height: auto;
+  border: 240px;
+
+
+
+
+
+ 
+ 
+}
+
+
+.container__title{
+  width: 370px;
+   color: #121723; 
+   font-size: 26px; 
+   font-family: Anonymous Pro; 
+   font-weight: 700;
+   background-color: white;
+   gap: 10px;
+}
+
+
+.header{
+font-family: Anonymous Pro;
+background-color: white;
+ justify-content: space-between;
+ color: black;
+ font-size: 16px; 
+ font-weight: 400;
+gap: 10px;
+font-weight: 1000; 
+align-items: flex-start;
+flex-wrap: wrap; 
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: flex;
+
+
+
+
+
+} 
+.logo{
+  margin: 20px; 
+  height: 43px;
+  display: flex ;
+ justify-content: space-between;
+
+}
+.footer{
+background-color: #121723;
+flex-shrink: 0;
+margin-top: 25px;
+width: 100%;
+float: left;
+justify-content: space-between;
+}
+
+.footlogo{
+  width: 1160px;
+  display: flex;
+  margin: 33px auto;
+  justify-content: space-around;
+
+}
+
+.footw{
+  display: flex;
+  margin: 33px auto;
+  justify-content: space-around;
+  width: 1160px;
+}
+
+
+
+.Hlink{
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding: 0;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  margin-left: 30px;
+  text-decoration: none;
+}
+.footLi{
+  display: flex;
+  list-style: none;
+  margin-top: auto;
+}
+.footerLin{
+  font-family: Anonymous Pro;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  margin-left: 24px;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+.footpic{
+  font-family: Anonymous Pro;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #A1A6B4;
+}
+.footline{
+  padding-bottom: 21px;
+    padding-top: 21px;
+}
+
+
+
+
