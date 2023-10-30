@@ -78,13 +78,6 @@ body{
   width: 346px;
   height: auto;
   border: 240px;
-
-
-
-
-
- 
- 
 }
 
 
@@ -199,6 +192,9 @@ justify-content: space-between;
     padding-top: 21px;
 }
 
+.container_sn{
+  margin-left: 150px;
+}
 
 
 
